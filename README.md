@@ -1,4 +1,4 @@
-# Computer Organisation and Architecture (COA) Interview Guide
+# Computer Organisation and Architecture (COA) Guide
 
 Welcome to the **Computer Organisation and Architecture (COA) Guide** – your comprehensive, interview-focused reference for mastering every key concept in modern computer architecture.
 
