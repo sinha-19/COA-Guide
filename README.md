@@ -6,22 +6,24 @@ Welcome to the **Computer Organisation and Architecture (COA) Guide** – your c
 
 ## 📚 Table of Contents
 
-1. [Introduction to COA](01_Introduction_to_COA.md)
-2. [Number Systems and Data Representation](02_Number_Systems_and_Data_Representation.md)
-3. [Digital Logic Circuits](03_Digital_Logic_Circuits.md)
-4. [Processor Organization and CPU Structure](04_Processor_Organization_and_CPU_Structure.md)
-5. [Instruction Set Architecture (ISA)](05_Instruction_Set_Architecture.md)
-6. [Addressing Modes and Instruction Cycle](06_Addressing_Modes_and_Instruction_Cycle.md)
-7. [Memory Hierarchy and Organization](07_Memory_Hierarchy_and_Organization.md)
-8. [Cache Memory and Virtual Memory](08_Cache_Memory_and_Virtual_Memory.md)
-9. [Input/Output Systems and Interfaces](09_Input_Output_Systems_and_Interfaces.md)
-10. [Pipelining and Hazards](10_Pipelining_and_Hazards.md)
-11. [RISC vs. CISC Architecture](11_RISC_vs_CISC_Architecture.md)
-12. [Microprogrammed Control Unit](12_Microprogrammed_Control_Unit.md)
-13. [Parallelism, Multiprocessing, and Multicore](13_Parallelism_Multiprocessing_Multicore.md)
-14. [Performance Measurement and Benchmarks](14_Performance_Measurement_and_Benchmarks.md)
-15. [Advanced Architectures (Superscalar, VLIW, DSP, GPU)](15_Advanced_Architectures.md)
-16. [Interview Patterns, Practice, and Q&A](16_Interview_Patterns_Practice_QA.md)
+| # | Topic | Video Link |
+|---|-------|------------|
+| 1 | [Introduction to COA](01_Introduction_to_COA.md) | [video](https://www.youtube.com/results?search_query=Introduction+to+COA+computer+organization+architecture) |
+| 2 | [Number Systems and Data Representation](02_Number_Systems_and_Data_Representation.md) | [video](https://www.youtube.com/results?search_query=Number+Systems+Data+Representation+computer+organization) |
+| 3 | [Digital Logic Circuits](03_Digital_Logic_Circuits.md) | [video](https://www.youtube.com/results?search_query=Digital+Logic+Circuits+computer+organization) |
+| 4 | [Processor Organization and CPU Structure](04_Processor_Organization_and_CPU_Structure.md) | [video](https://www.youtube.com/results?search_query=Processor+Organization+CPU+Structure+computer+organization) |
+| 5 | [Instruction Set Architecture (ISA)](05_Instruction_Set_Architecture.md) | [video](https://www.youtube.com/results?search_query=Instruction+Set+Architecture+ISA+computer+organization) |
+| 6 | [Addressing Modes and Instruction Cycle](06_Addressing_Modes_and_Instruction_Cycle.md) | [video](https://www.youtube.com/results?search_query=Addressing+Modes+Instruction+Cycle+computer+organization) |
+| 7 | [Memory Hierarchy and Organization](07_Memory_Hierarchy_and_Organization.md) | [video](https://www.youtube.com/results?search_query=Memory+Hierarchy+Organization+computer+architecture) |
+| 8 | [Cache Memory and Virtual Memory](08_Cache_Memory_and_Virtual_Memory.md) | [video](https://www.youtube.com/results?search_query=Cache+Memory+Virtual+Memory+computer+organization) |
+| 9 | [Input/Output Systems and Interfaces](09_Input_Output_Systems_and_Interfaces.md) | [video](https://www.youtube.com/results?search_query=Input+Output+Systems+Interfaces+computer+organization) |
+| 10 | [Pipelining and Hazards](10_Pipelining_and_Hazards.md) | [video](https://www.youtube.com/results?search_query=Pipelining+Hazards+computer+organization) |
+| 11 | [RISC vs. CISC Architecture](11_RISC_vs_CISC_Architecture.md) | [video](https://www.youtube.com/results?search_query=RISC+vs+CISC+Architecture+computer+organization) |
+| 12 | [Microprogrammed Control Unit](12_Microprogrammed_Control_Unit.md) | [video](https://www.youtube.com/results?search_query=Microprogrammed+Control+Unit+computer+organization) |
+| 13 | [Parallelism, Multiprocessing, and Multicore](13_Parallelism_Multiprocessing_Multicore.md) | [video](https://www.youtube.com/results?search_query=Parallelism+Multiprocessing+Multicore+computer+organization) |
+| 14 | [Performance Measurement and Benchmarks](14_Performance_Measurement_and_Benchmarks.md) | [video](https://www.youtube.com/results?search_query=Performance+Measurement+Benchmarks+computer+organization) |
+| 15 | [Advanced Architectures (Superscalar, VLIW, DSP, GPU)](15_Advanced_Architectures.md) | [video](https://www.youtube.com/results?search_query=Superscalar+VLIW+DSP+GPU+computer+architecture) |
+| 16 | [Interview Patterns, Practice, and Q&A](16_Interview_Patterns_Practice_QA.md) | [video](https://www.youtube.com/results?search_query=Computer+Organization+Architecture+interview+questions) |
 
 ---
 
